@@ -1,0 +1,1 @@
+Volume Order Blocks [BigBeluga] is a powerful indicator that identifies significant order blocks based on price structure, helping traders spot key supply and demand zones. The tool leverages EMA crossovers to determine the formation of bullish and bearish order blocks while visualizing their associated volume and relative strength.
